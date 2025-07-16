@@ -1,4 +1,3 @@
-
 adobe suite
 adobe indesign
 photoshop
@@ -10,8 +9,3 @@ da-fonts, google fonts
 coolers
 Happy hues
 envato elements
-da-fonts, google fonts
-coolers
-Happy hues
-envato elements
-hello world
